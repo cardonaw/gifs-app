@@ -1,0 +1,8 @@
+#searchbox {
+    background-color: #282A36;
+    }
+
+#cardlist {
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
